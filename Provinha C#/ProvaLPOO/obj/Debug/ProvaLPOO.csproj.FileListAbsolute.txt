@@ -1,0 +1,8 @@
+C:\Users\Sakashita\Documents\Projetos VisualStudio\ProvaLPOO\ProvaLPOO\bin\Debug\ProvaLPOO.exe.config
+C:\Users\Sakashita\Documents\Projetos VisualStudio\ProvaLPOO\ProvaLPOO\bin\Debug\ProvaLPOO.exe
+C:\Users\Sakashita\Documents\Projetos VisualStudio\ProvaLPOO\ProvaLPOO\bin\Debug\ProvaLPOO.pdb
+C:\Users\Sakashita\Documents\Projetos VisualStudio\ProvaLPOO\ProvaLPOO\obj\Debug\ProvaLPOO.Properties.Resources.resources
+C:\Users\Sakashita\Documents\Projetos VisualStudio\ProvaLPOO\ProvaLPOO\obj\Debug\ProvaLPOO.csproj.GenerateResource.Cache
+C:\Users\Sakashita\Documents\Projetos VisualStudio\ProvaLPOO\ProvaLPOO\obj\Debug\ProvaLPOO.exe
+C:\Users\Sakashita\Documents\Projetos VisualStudio\ProvaLPOO\ProvaLPOO\obj\Debug\ProvaLPOO.pdb
+C:\Users\Sakashita\Documents\Projetos VisualStudio\ProvaLPOO\ProvaLPOO\obj\Debug\ProvaDoCapeta.Form1.resources
